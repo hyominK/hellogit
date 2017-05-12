@@ -1,2 +1,2 @@
 # hellogit
-The test for creation of repository Git-Hub
+공개S/W 프로젝트 5조 채팅방 프로그램
